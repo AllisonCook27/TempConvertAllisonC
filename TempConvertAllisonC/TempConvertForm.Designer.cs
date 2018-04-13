@@ -34,8 +34,8 @@
             this.mniFile = new System.Windows.Forms.ToolStripMenuItem();
             this.mniExit = new System.Windows.Forms.ToolStripMenuItem();
             this.txtCelsuis = new System.Windows.Forms.TextBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
+            this.lblAnswer = new System.Windows.Forms.Label();
+            this.lblA = new System.Windows.Forms.Label();
             this.mnumenu.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -83,6 +83,7 @@
             this.mniExit.Name = "mniExit";
             this.mniExit.Size = new System.Drawing.Size(152, 22);
             this.mniExit.Text = "Exit";
+            this.mniExit.Click += new System.EventHandler(this.mniExit_Click);
             // 
             // txtCelsuis
             // 
@@ -91,32 +92,32 @@
             this.txtCelsuis.Size = new System.Drawing.Size(100, 20);
             this.txtCelsuis.TabIndex = 3;
             // 
-            // label1
+            // lblAnswer
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Dutch801 Rm BT", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(24, 175);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(279, 19);
-            this.label1.TabIndex = 4;
-            this.label1.Text = "The temperature in degrees fahrenheit:\r\n";
+            this.lblAnswer.AutoSize = true;
+            this.lblAnswer.Font = new System.Drawing.Font("Dutch801 Rm BT", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblAnswer.Location = new System.Drawing.Point(24, 175);
+            this.lblAnswer.Name = "lblAnswer";
+            this.lblAnswer.Size = new System.Drawing.Size(279, 19);
+            this.lblAnswer.TabIndex = 4;
+            this.lblAnswer.Text = "The temperature in degrees fahrenheit:\r\n";
             // 
-            // label2
+            // lblA
             // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Dutch801 Rm BT", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(151, 211);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(0, 19);
-            this.label2.TabIndex = 5;
+            this.lblA.AutoSize = true;
+            this.lblA.Font = new System.Drawing.Font("Dutch801 Rm BT", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblA.Location = new System.Drawing.Point(151, 211);
+            this.lblA.Name = "lblA";
+            this.lblA.Size = new System.Drawing.Size(0, 19);
+            this.lblA.TabIndex = 5;
             // 
             // frmTempConvert
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(337, 261);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.lblA);
+            this.Controls.Add(this.lblAnswer);
             this.Controls.Add(this.txtCelsuis);
             this.Controls.Add(this.lblEnter);
             this.Controls.Add(this.btnConvert);
@@ -139,8 +140,8 @@
         private System.Windows.Forms.ToolStripMenuItem mniFile;
         private System.Windows.Forms.ToolStripMenuItem mniExit;
         private System.Windows.Forms.TextBox txtCelsuis;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label lblAnswer;
+        private System.Windows.Forms.Label lblA;
     }
 }
 
