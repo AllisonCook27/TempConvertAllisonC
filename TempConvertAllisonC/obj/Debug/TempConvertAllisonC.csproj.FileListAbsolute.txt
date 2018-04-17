@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\TempConvertAllisonC\TempConvertAllisonC\bin\Debug\TempConvertAllisonC.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\TempConvertAllisonC\TempConvertAllisonC\bin\Debug\TempConvertAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\TempConvertAllisonC\TempConvertAllisonC\bin\Debug\TempConvertAllisonC.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\TempConvertAllisonC\TempConvertAllisonC\obj\Debug\TempConvertAllisonC.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\TempConvertAllisonC\TempConvertAllisonC\obj\Debug\TempConvertAllisonC.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\TempConvertAllisonC\TempConvertAllisonC\obj\Debug\TempConvertAllisonC.frmTempConvert.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\TempConvertAllisonC\TempConvertAllisonC\obj\Debug\TempConvertAllisonC.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\TempConvertAllisonC\TempConvertAllisonC\obj\Debug\TempConvertAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\TempConvertAllisonC\TempConvertAllisonC\obj\Debug\TempConvertAllisonC.pdb

@@ -29,7 +29,7 @@ namespace TempConvertAllisonC
             float fahrenheit;
 
             //calculating
-            fahrenheit = ((float)(9) / (float)(8)) * Celsuis + 32;
+            fahrenheit = ((float)(9) / (float)(5)) * Celsuis + 32;
 
             //set to label
             this.lblA.Text = Convert.ToString(fahrenheit);
